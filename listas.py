@@ -1,4 +1,5 @@
 
+
 lista = [
     'elemento_1 con posicion o indice 0',
     'elemento_1 con posicion o indice 1',
@@ -29,3 +30,4 @@ lista_materiales.remove('Pintura') # para cuando el argumento es el elemento
 lista_materiales.pop(0) # para cuando el argumento es el index
 
 print(lista_materiales)
+

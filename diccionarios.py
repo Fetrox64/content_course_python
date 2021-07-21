@@ -1,4 +1,5 @@
 
+
 diccionario = {
     'llave_1': 'valor_1',
     'llave_2': 'valor_2',
@@ -27,3 +28,4 @@ promedio_notas.pop('Biologia')
 
 
 print(promedio_notas)
+
