@@ -18,7 +18,7 @@ promedio_notas = {
 promedio_notas['Artes'] = 6.5
 
 # Para obtener
-promedio_lenguaje = promedio_notas['Matematica']
+promedio_matematica = promedio_notas['Matematica']
 
 # Para alterar
 promedio_notas['Matematica'] = 6.0
@@ -27,5 +27,5 @@ promedio_notas['Matematica'] = 6.0
 promedio_notas.pop('Biologia')
 
 
-print(promedio_notas)
+print(promedio_matematica)
 

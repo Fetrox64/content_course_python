@@ -1,7 +1,7 @@
 
 
 lista = [
-    'elemento_1 con posicion o indice 0',
+    'elemento_0 con posicion o indice 0',
     'elemento_1 con posicion o indice 1',
     'elemento_n con posicion o indice n'
 ]
