@@ -28,3 +28,11 @@ variable = True | False
 tipo_dato = type(variable)
 
 print(tipo_dato)
+
+
+# Casting
+
+str() # Para convertir a string
+int() # Para convertir a entero
+float() # Para convertir a decimal
+bool() # Para convertir a booleano
