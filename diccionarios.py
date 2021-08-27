@@ -10,7 +10,7 @@ diccionario = {
 promedio_notas = {
     'Lenguaje': 6.5,
     'Matematica': 2.0,
-    'Biologia': 5.0
+    'Historia': 5.0
 }
 
 
@@ -24,7 +24,7 @@ promedio_matematica = promedio_notas['Matematica']
 promedio_notas['Matematica'] = 6.0
 
 # Para eliminar
-promedio_notas.pop('Biologia')
+promedio_notas.pop('Historia')
 
 
 print(promedio_matematica)
