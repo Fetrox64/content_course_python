@@ -1,6 +1,5 @@
 
 
-
 # Tipo de dato String
 
 variable = 'Buenas tardes'
