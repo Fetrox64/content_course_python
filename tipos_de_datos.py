@@ -35,3 +35,9 @@ str() # Para convertir a string
 int() # Para convertir a entero
 float() # Para convertir a decimal
 bool() # Para convertir a booleano
+
+promedio = "5.7"
+promedio = float(promedio)
+promedio_con_decimas = promedio + 0.3
+
+print(promedio_con_decimas)
